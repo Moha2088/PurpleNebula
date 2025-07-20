@@ -1,0 +1,32 @@
+name: Publish to Visual Studio Code Marketplace
+
+on:
+  push:
+    branches:
+      - master
+  release:
+    types:
+    - created
+  workflow_dispatch:
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout code
+        uses: actions/checkout@v4
+
+      - name: Set up Node.js
+        uses: actions/setup-node@v4.4.0
+        with:
+          node-version: 20
+
+      - name: Install dependencies
+        run: npm install
+
+      - name: Install vsce
+        run: npm i -g vsce
+
+      - name: Publish to Visual Studio Marketplace
+        run: vsce publish -p ${{ secrets.VS_MARKETPLACE_TOKEN }}
