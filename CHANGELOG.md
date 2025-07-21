@@ -1,9 +1,8 @@
 # Change Log
 
-All notable changes to the "purble-neb" extension will be documented in this file.
+## 0.0.2 - 21-07-2025
 
-Check [Keep a Changelog](http://keepachangelog.com/) for recommendations on how to structure this file.
-
-## [Unreleased]
-
-- Initial release
+- Initial release.
+- Added code screenshot for the theme
+- Added theme icon
+- Updated README

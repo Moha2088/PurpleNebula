@@ -3,7 +3,7 @@
   "displayName": "Purple Nebula",
   "description": "A calm and relaxing theme for all purple lovers",
   "publisher": "mohamedshil",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "engines": {
     "vscode": "^1.102.0"
   },
@@ -19,6 +19,9 @@
       }
     ]
   },
+
+  "icon": "assets/images/pnicon.png",
+
   "repository": {
     "type": "git",
     "url": "https://github.com/Moha2088/PurpleNebula"
