@@ -82,14 +82,14 @@
         "editor.lineHighlightBackground": "#29004a",
         "editorLink.activeForeground": "#9499ff",
         "editorWhitespace.foreground": "#3e0070",
-        "editorIndentGuide.background": "#300057",
-        "editorIndentGuide.activeBackground": "#9499ff",
+        "editorIndentGuide.background1": "#300057",
+        "editorIndentGuide.activeBackground1": "#9499ff",
         "editorRuler.foreground": "#300057",
         "editorBracketMatch.border": "#767acc",
         "editorBracketMatch.background": "#1f0038",
         "editor.foldBackground": "#a600ff30",
         "editorOverviewRuler.border": "#300057",
-        "editorOverviewRuler.selectionHighlightForeground": "#9499ff",
+        "editorOverviewRuler.selectionHighlightForeground": "#9499ff80",
         "editorOverviewRuler.modifiedForeground": "#00eeff",
         "editorOverviewRuler.addedForeground": "#00eeff",
         "editorOverviewRuler.deletedForeground": "#00eeff",
@@ -108,6 +108,7 @@
         "editorGutter.deletedBackground": "#ff0000",
         "diffEditor.insertedTextBackground": "#78BD6530",
         "diffEditor.removedTextBackground": "#ff000035",
+        "diffEditor.insertedLineBackground":"#4cfc0087",
         "editorWidget.background": "#22003d",
         "editorWidget.resizeBorder": "#300057",
         "editorSuggestWidget.background": "#29004a",
@@ -152,8 +153,7 @@
         "gitDecoration.deletedResourceForeground": "#ff0000",
         "gitDecoration.stageDeletedResourceForeground": "#ff0000",
         "gitDecoration.stageModifiedResourceForeground": "#00eeff",
-        "settings.modifiedItemIndicator": "#00eeff",
-        "notebook.focusedRowBorder": "#9499ff"
+        "settings.modifiedItemIndicator": "#00eeff"
     },
     "tokenColors": [
         {
