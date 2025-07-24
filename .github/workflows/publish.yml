@@ -4,6 +4,10 @@ on:
   push:
     branches:
       - master
+    paths-ignore:
+      - '.github/FUNDING.yml'
+      - 'README.md'
+      - '.vscodeignore'
   release:
     types:
     - created
