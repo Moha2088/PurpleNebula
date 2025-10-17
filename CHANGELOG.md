@@ -1,5 +1,9 @@
 # Change Log
 
+## 0.0.4 - 17-10-2025
+
+- Updated the background of new lines in the diff editor to be more green
+
 ## 0.0.3 - 22-07-2025
 
 - Updated the background of new lines in the diff editor to be more green
