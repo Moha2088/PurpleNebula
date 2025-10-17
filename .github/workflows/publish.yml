@@ -8,6 +8,7 @@ on:
       - '.github/FUNDING.yml'
       - '.github/workflows/publish.yml'
       - 'README.md'
+      - 'CHANGELOG.md'
       - '.vscodeignore'
   release:
     # types:
