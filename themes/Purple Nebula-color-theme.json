@@ -108,7 +108,7 @@
         "editorGutter.deletedBackground": "#ff0000",
         "diffEditor.insertedTextBackground": "#78BD6530",
         "diffEditor.removedTextBackground": "#ff000035",
-        "diffEditor.insertedLineBackground":"#4cfc0087",
+        "diffEditor.insertedLineBackground":"#216d0087",
         "editorWidget.background": "#22003d",
         "editorWidget.resizeBorder": "#300057",
         "editorSuggestWidget.background": "#29004a",
