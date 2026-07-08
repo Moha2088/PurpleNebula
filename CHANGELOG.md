@@ -1,5 +1,10 @@
 # Change Log
 
+## 0.0.5 - 08-07-2026
+
+- Updated foreground and background colors for terminal
+- Change titlebar and statusbar to a lighter color
+
 ## 0.0.4 - 17-10-2025
 
 - Updated the background of inserted lines
