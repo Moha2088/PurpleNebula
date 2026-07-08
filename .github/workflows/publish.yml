@@ -36,3 +36,9 @@ jobs:
 
       - name: Publish to Visual Studio Marketplace
         run: vsce publish -p ${{ secrets.VS_MARKETPLACE_TOKEN }}
+
+      - name: Install ovsx
+        run: npm i -g ovsx
+
+      - name: Publish to Open VSX Registry
+        run: ovsx publish -p ${{ secrets.OSVX_TOKEN }}
