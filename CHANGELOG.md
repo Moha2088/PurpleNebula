@@ -1,5 +1,9 @@
 # Change Log
 
+## 0.0.6 - 10-07-2026
+
+- Update extension icon
+
 ## 0.0.5 - 08-07-2026
 
 - Updated foreground and background colors for terminal

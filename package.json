@@ -3,7 +3,7 @@
   "displayName": "Purple Nebula",
   "description": "A calm and relaxing theme for all purple lovers",
   "publisher": "mohamedshil",
-  "version": "0.0.5",
+  "version": "0.0.6",
   "engines": {
     "vscode": "^1.102.0"
   },
